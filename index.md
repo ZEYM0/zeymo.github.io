@@ -1,91 +1,60 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sahabi Ilyas 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+**Développeur Informatique**  
+_En recherche d'alternance ou d'emploi à plein temps_
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Contact**  
+Téléphone : +33 6 95 25 72 33  
+Email : ilyasahabi@gmail.com  
+Lieu : Lille / Paris / Compiègne  
+LinkedIn : [linkedin.com/Ilyas-Sahabi](https://www.linkedin.com/Ilyas-Sahabi)  
+Permis B
 
 
-### Research interests
+# Profil
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Étudiant niveau **Bac+2**, spécialisé en **développement informatique**, je recherche une **alternance** **ou** un **poste à plein temps** pour renforcer mes compétences techniques et approfondir mes connaissances dans le domaine. **Motivé**, **curieux** et toujours **à la recherche de nouveaux défis**, je m'efforce d'allier théorie et pratique pour contribuer efficacement au succès des projets auxquels je participe.
 
+# Compétences Techniques
 
-## Education
+-   **Langages de programmation** : HTML, CSS, C#, C++, PHP, SQL
+-   **Frameworks & outils** : Windows Form, Web Scraping
+-   **Autres compétences** : Rédaction de cahiers des charges, Maintenance applicative, Correction de bugs, Montage
 
-`1654-1660`
-__The King's School, Grantham.__
+# Compétence Comportementales
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-   À l'écoute
+-   Esprit d'équipe
+-   Sens du service
+-   Autonomie
+-   Discrétion
 
-- Sizar
+# Expériences Professionnelles
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Développeur Informatique** _(Stage)_ – TechOS  
+_Compiègne | Janvier 2022 – Février 2022_
 
-- Fellow
+-   Développement d'une application pour le projet TechOS.
+-   Rédaction du cahier des charges utilisateur.
+-   Web scraping et extraction de données.
+-   Maintenance applicative et correction de bugs.
 
+**Equipier Polyvalent** _(Emploi étudiant)_ – McDonald’s  
+_Clairoix | Juillet 2022 – à ce jour_
 
+-   Accueil des clients et gestion des commandes, dans le respect des normes de qualité et d'hygiène.
+-   Développement d'une connaissance approfondie des produits pour mieux conseiller la clientèle.
+-   Participation à la bonne gestion du restaurant et préservation de l'image de marque de McDonald’s.
 
-## Awards
+# Formations
 
-`2012`
-President, *Royal Society*, London, UK
+**BTS SIO, Option SLAM** – GAND  
+_Amiens | Septembre 2022 – Août 2024_
 
-Associate, *French Academy of Science*, Paris, France
+**Baccalauréat** – Lycée Pierre d’Ailly  
+_Compiègne | Septembre 2019 – Juillet 2022_
 
+## Références
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+-   [**Dupont Nicolas**](https://www.linkedin.com/in/ndupont8/) : Enseignant en Système Informatique aux Organisations, Amiens
+-   [**Nacim Bensakhria**](https://www.linkedin.com/in/nacim-bensakhria/) : Ingénieur / Entrepreneur, Fondateur de TechOS, Compiègne
